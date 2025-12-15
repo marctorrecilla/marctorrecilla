@@ -14,17 +14,17 @@
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
   </p>
 
-  <!-- TUS IMÁGENES de tecnologías (sin enlace) -->
+  <!-- TUS IMÁGENES con tamaño fijo -->
   <p>
-    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/html.webp" alt="HTML" width="50" style="margin: 0 10px;"/>
-    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/css.webp" alt="CSS" width="50" style="margin: 0 10px;"/>
-    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/js.png" alt="JavaScript" width="50" style="margin: 0 10px;"/>
-    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/sql.webp" alt="SQL" width="50" style="margin: 0 10px;"/>
+    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/html.webp" alt="HTML" width="60" height="60" style="object-fit: contain; margin: 0 10px;"/>
+    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/css.webp" alt="CSS" width="60" height="60" style="object-fit: contain; margin: 0 10px;"/>
+    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/js.png" alt="JavaScript" width="60" height="60" style="object-fit: contain; margin: 0 10px;"/>
+    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/sql.webp" alt="SQL" width="60" height="60" style="object-fit: contain; margin: 0 10px;"/>
   </p>
   
   <br>
 
-  <!-- ENLACES a tus redes (badges clicables) -->
+  <!-- ENLACES a tus redes -->
   <p>
     <a href="https://linkedin.com/in/marctorrecilla" target="_blank" style="margin-right: 15px;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
