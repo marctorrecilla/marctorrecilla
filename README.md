@@ -7,19 +7,15 @@
   </h3>
   <br/>
 
-  <!-- Badges de habilidades principales -->
+  <!-- TODAS las tecnologías como badges -->
   <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
-  </p>
-
-  <!-- TUS IMÁGENES con tamaño fijo -->
-  <p>
-    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/html.webp" alt="HTML" width="60" height="60" style="object-fit: contain; margin: 0 10px;"/>
-    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/css.webp" alt="CSS" width="60" height="60" style="object-fit: contain; margin: 0 10px;"/>
-    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/js.png" alt="JavaScript" width="60" height="60" style="object-fit: contain; margin: 0 10px;"/>
-    <img src="https://raw.githubusercontent.com/marctorrecilla/marctorrecilla/main/sql.webp" alt="SQL" width="60" height="60" style="object-fit: contain; margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </p>
   
   <br>
