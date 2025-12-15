@@ -14,20 +14,21 @@
   </p>
 
   <p>
+    <!-- Imágenes corregidas con rutas relativas -->
     <a href="https://linkedin.com/in/marctorrecilla" target="_blank" style="margin-right: 15px;">
-      <img src="html.webp" alt="HTML" width="50px"/>
+      <img src="./html.webp" alt="HTML" width="50px"/>
     </a>
     
     <a href="mailto:tu_email@gmail.com" style="margin-right: 15px;">
-      <img src="css.webp" alt="CSS" width="50px"/>
+      <img src="./css.webp" alt="CSS" width="50px"/>
     </a>
     
     <a href="https://instagram.com/marctorrecilla" target="_blank" style="margin-right: 15px;">
-      <img src="js.jpg" alt="JavaScript" width="50px"/>
+      <img src="./js.jpg" alt="JavaScript" width="50px"/>
     </a>
     
     <a href="https://tryhackme.com/p/marctorrecilla" target="_blank">
-      <img src="sql.webp" alt="SQL" width="50px"/>
+      <img src="./sql.webp" alt="SQL" width="50px"/>
     </a>
   </p>
 
