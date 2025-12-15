@@ -160,50 +160,6 @@ combinando conocimientos en **SQL, Python y análisis de logs** para desarrollar
 
 ## 🚀 **Proyectos Destacados**
 
-### **🔐 Sistema de Análisis de Logs | 2025**
-*Herramienta personalizada para análisis y correlación de logs de seguridad*
-```python
-# Características principales:
-# - Detección de patrones sospechosos en tiempo real
-# - Alertas automatizadas por email/telegram
-# - Dashboard interactivo con métricas
-# - Integración con múltiples fuentes de logs
-```
-**Tecnologías**: `Python` `SQL` `Elasticsearch` `Docker` `Flask`
-
-### **🛡️ Escáner de Vulnerabilidades | 2025**
-*Script en Python para escaneo básico de vulnerabilidades en redes locales*
-```bash
-# Funcionalidades:
-# - Escaneo de puertos y servicios expuestos
-# - Detección de vulnerabilidades comunes
-# - Generación de reportes PDF automáticos
-# - Escaneo multi-hilo para mayor velocidad
-```
-**Tecnologías**: `Python` `Nmap` `Multithreading` `ReportLab` `Sockets`
-
-### **📈 Dashboard de Seguridad | 2023**
-*Panel de visualización para métricas de seguridad con gráficos en tiempo real*
-```javascript
-// Características:
-// - Visualización de tendencias de amenazas
-// - Métricas de seguridad en tiempo real
-// - Alertas visuales para incidentes
-// - Exportación de datos a múltiples formatos
-```
-**Tecnologías**: `Python` `Flask` `Chart.js` `SQLite` `Bootstrap`
-
-### **🔑 Gestor de Contraseñas Seguro | 2023**
-*Aplicación local para gestión segura de contraseñas con encriptación AES-256*
-```python
-# Seguridad implementada:
-# - Encriptación AES-256 para datos sensibles
-# - Generador de contraseñas robustas
-# - Autenticación de dos factores
-# - Copias de seguridad encriptadas
-```
-**Tecnologías**: `Python` `Cryptography` `Tkinter` `SQLite` `Hashlib`
-
 ---
 
 ## 🎯 **Objetivos Profesionales**
