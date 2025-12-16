@@ -20,22 +20,6 @@
 
 ## 🌟 **Sobre Mí**
 
-```python
-habilidades = {
-    'ciberseguridad': ['Análisis de Logs', 'Seguridad SIEM', 'Firewalls', 'Análisis Forense'],
-    'programacion': ['Python', 'SQL', 'Bash', 'HTML/CSS'],
-    'sistemas': ['Linux', 'Windows Server', 'Virtualización', 'Redes TCP/IP'],
-    'herramientas': ['Wireshark', 'Nmap', 'Metasploit', 'Git/GitHub']
-}
-
-objetivos = [
-    'Especialista en Ciberseguridad',
-    'Analista de Seguridad',
-    'Pentester Junior',
-    'Administrador de Sistemas'
-]
-```
-
 Estudiante apasionado de **Ciberseguridad** con un enfoque especial en análisis de logs y seguridad informática. 
 Mi objetivo es convertirme en un profesional capaz de proteger sistemas y datos contra amenazas digitales, 
 combinando conocimientos en **SQL, Python y análisis de logs** para desarrollar soluciones de seguridad efectivas.
@@ -209,7 +193,8 @@ combinando conocimientos en **SQL, Python y análisis de logs** para desarrollar
 
 <div align="center">
 
-[![Ver CV Castellano](https://img.shields.io/badge/📄_Ver_CV_Castellano-4285F4?style=for-the-badge&logo=adobeacrobatreader)](pdf/CV_Marc_Torrecilla_Castellano.pdf)
+[![Ver CV Castellano](https://img.shields.io/badge/📄_Ver_CV_Castellano-4285F4?style=for-the-badge&logo=adobeacrobatreader)](CV_Marc_Torrecilla_Castellano.pdf)
+[![Ver CV Castala](https://img.shields.io/badge/📄_Ver_CV_Castellano-4285F4?style=for-the-badge&logo=adobeacrobatreader)](CV_Marc_Torrecilla_Catala.pdf)
 [![Descargar CV](https://img.shields.io/badge/📥_Descargar_CV_Completo-4CAF50?style=for-the-badge&logo=download)](pdf/CV_Marc_Torrecilla_Castellano.pdf?download=1)
 [![Portafolio Web](https://img.shields.io/badge/🌐_Portafolio_Web_Completo-FF6B6B?style=for-the-badge&logo=internetexplorer)](https://marctorrecilla.github.io)
 
@@ -225,7 +210,7 @@ combinando conocimientos en **SQL, Python y análisis de logs** para desarrollar
 - 📚 **Microsoft Learn** - Fundamentos de Seguridad y Compliance
 - 🌐 **Cisco Networking Academy** - Introducción a la Ciberseguridad
 - 🐙 **GitHub Campus** - Estudiante de Tecnología verificado
-- 🔒 **Próximo objetivo**: Certificación CompTIA Security+
+- 🔒 **Próximo objetivo**: Certificación de SQL y AWS+
 
 ## ⭐ "La seguridad no es un producto, sino un proceso" - Bruce Schneier
 
